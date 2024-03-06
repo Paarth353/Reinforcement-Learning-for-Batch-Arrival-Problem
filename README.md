@@ -1,5 +1,10 @@
 # Reinforcement-Learning-for-Batch-Arrival-Problem
 
+- Deep_Q_Network_for_Batch_Arrivals.ipynb: DQN network for the batch arrival problem
+- optimal_policy: Finding the optimal policy threshold by finding the minima of the cose
+- Q_learning: Used tabular Q-learning to solve the same problem
+- q_value_iteration_for_known_mdps: Used Q-value iteration by exactly caclulating the transition probabilities
+
 ![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/f2d61160-445e-4aee-be5f-08fe1679e8d7)
 
 - Slotted System, Single Queue with Binomial i.i.d batch arrivals
