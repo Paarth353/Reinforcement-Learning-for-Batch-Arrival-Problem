@@ -7,13 +7,11 @@ Problem statement![image](https://github.com/Paarth353/Reinforcement-Learning-fo
 - Reward = Queue Length at the beginning of episode + Cost of serving
 - The queue is capped at a Max queue length 
 - The task is to find the optimal policy such that the long run expected discounted reward is maximum
-//![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/b037df65-5f7e-4036-a1e0-5744c4de50a0)
 
-![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/2fb13623-b918-4a18-9d69-6a44deb9e529)
-
-![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/2c9cbe64-ef02-451f-901f-6bd21184d76f)
+![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/2fa7e681-3bb8-481f-a57e-8d7b839f1860)
 
 
+Q-learning![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/5a95dc7d-4770-4a55-9e1a-66deabf2b9ea)
 
 
 
