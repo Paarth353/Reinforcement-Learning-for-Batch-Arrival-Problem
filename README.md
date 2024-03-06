@@ -55,9 +55,25 @@ Tabular Q-learning vs. Policy exploration![image](https://github.com/Paarth353/R
 ![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/00318ea0-c9c6-4a7d-8bd2-d2530bb533c5)
 
 
+![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/a1c90ae2-8cff-428e-9ecd-74a7ae46c20b)
+
+![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/6606b554-941a-459d-b64d-6b8c3a55ce38)
+
+![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/d9ef4c99-aad4-42bb-a897-fc7d32484d54)
+
+- For a certain number of steps, we collect some samples by taking actions according to current policy and add it to a replay buffer which stores the “past experiences”
+
+- We sample a minibatch from the replay buffer and train our model using these samples. This is done to eliminate the high correlation issue when we use sequential states, and this prevents overfitting.
+
+- We use two models, the main Q-network and a target network.
+- Q-network is updated regularly
+- Target network is the older version, updated occasionally with the exact copy of weights of the Q-network
+- This helps in keeping the target values constant for some time and adds stability to the model
+- We use stochastic gradient decent on the weights using the constant target values for the loss function
+
+![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/4fc79127-aa85-43f6-b9e4-803ef28a97f1)
+
+![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/e823c590-046e-4bde-ac5d-2723e8a21259)
 
 
-
-
-
-
+![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/968c5569-9f9d-40a1-bd08-da244d25a7b0)
