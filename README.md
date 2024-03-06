@@ -44,9 +44,9 @@ Tabular Q-learning vs. Policy exploration![image](https://github.com/Paarth353/R
 
 ![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/cdb9341b-f59b-4773-a598-7f505d1296b1)
 
-- We can compute the exact transition probabilities
+- We can compute the exact transition probabilities <br/><br/>
 ![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/68c39a07-4ade-435d-9b5a-6576f0bb6341)
-- We also know the exact rewards
+- We also know the exact rewards <br/><br/>
 ![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/acf905d3-91bb-49f8-8f8e-ce3ddc529f70)
 - We can easily iterate through several steps and in each step, update the Q value of each state-action pair until the Q-values converge to optimal values
 ![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/50ab25af-c824-434f-b99a-717febd9f2de)
@@ -54,7 +54,7 @@ Tabular Q-learning vs. Policy exploration![image](https://github.com/Paarth353/R
 
 ![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/00318ea0-c9c6-4a7d-8bd2-d2530bb533c5)
 
-![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/44ec3dbc-87db-4bd2-acfb-db54ed0b2c38)
+
 
 
 
