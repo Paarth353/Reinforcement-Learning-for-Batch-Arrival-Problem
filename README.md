@@ -21,14 +21,13 @@ Problem statement![image](https://github.com/Paarth353/Reinforcement-Learning-fo
 - Action: number of packets to be served
 - Can be K or M
 - Update rule for tabular “model free” Q-learning
-![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/b10c8ba6-3208-48d4-8327-fb27efc64726)
 
 ![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/e32f0fa4-4255-448d-8d78-8ad09ed7da32)
 
 - 𝑅_(𝑡+1) is the reward when moving from the state 𝑆_𝑡  to the state 𝑆_(𝑡+1) and α is the learning rate
 -〖𝛾⋅max┬𝑎〗⁡〖𝑄(𝑆_(𝑡+1), 𝑎)〗   is the discounted future rewards
 - 𝑄(𝑆_𝑡  , 𝐴_𝑡) is the current Q-value for state 𝑆_𝑡 and action 𝐴_𝑡
-![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/7a30f2a9-7a36-44a1-b5b2-04cc526ccb4c)
+
 
 
 
