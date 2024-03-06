@@ -28,6 +28,13 @@ Problem statement![image](https://github.com/Paarth353/Reinforcement-Learning-fo
 -〖𝛾⋅max┬𝑎〗⁡〖𝑄(𝑆_(𝑡+1), 𝑎)〗   is the discounted future rewards
 - 𝑄(𝑆_𝑡  , 𝐴_𝑡) is the current Q-value for state 𝑆_𝑡 and action 𝐴_𝑡
 
+Tabular Q-learning vs. Policy exploration![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/04507934-a259-4939-a705-8abc442f1ccb)
+
+![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/ceeeac0c-c526-4878-9627-fba83c0b9bb9) 
+![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/aeb9048e-b04a-41f6-9a35-a79df3925aba)
+
+
+
 
 
 
