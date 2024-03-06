@@ -1,6 +1,6 @@
 # Reinforcement-Learning-for-Batch-Arrival-Problem
 
-Problem statement![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/f2d61160-445e-4aee-be5f-08fe1679e8d7)
+![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/f2d61160-445e-4aee-be5f-08fe1679e8d7)
 
 - Slotted System, Single Queue with Binomial i.i.d batch arrivals
 - We have a choice to serve K packets at a cost of 0 or M packets with a cost of C 
@@ -30,16 +30,29 @@ Problem statement![image](https://github.com/Paarth353/Reinforcement-Learning-fo
 
 Tabular Q-learning vs. Policy exploration![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/04507934-a259-4939-a705-8abc442f1ccb)
 
-![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/81b639e3-b04a-48a6-84f8-67392914dee4)
+![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/dea10b4b-3a4d-41e2-a12a-ad696bd12e10)
 
 
 ![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/cc58554a-a0d8-4bcd-96a6-734fe184a5c0)
 
-Tabular Q-learning vs. Q-iteration (model based)![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/60dbbf45-146c-48f1-af3b-ca03b94c77df)
+![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/60dbbf45-146c-48f1-af3b-ca03b94c77df)
 
 ![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/a920c78b-344b-4e28-9e78-51f3e919d2d5)
 
 ![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/05bce4b9-cb53-4819-a0c4-1d2e3d3d3a00)
+
+
+![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/cdb9341b-f59b-4773-a598-7f505d1296b1)
+
+- We can compute the exact transition probabilities
+![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/24c34a70-22cb-4bc1-a499-4dfa38181a9d)
+- We also know the exact rewards
+![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/ad64b6de-8e25-4d0e-910f-03e3a250000e)
+- We can easily iterate through several steps and in each step, update the Q value of each state-action pair until the Q-values converge to optimal values
+![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/50ab25af-c824-434f-b99a-717febd9f2de)
+
+
+
 
 
 
