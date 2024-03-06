@@ -33,6 +33,14 @@ Tabular Q-learning vs. Policy exploration![image](https://github.com/Paarth353/R
 ![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/ceeeac0c-c526-4878-9627-fba83c0b9bb9) 
 ![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/aeb9048e-b04a-41f6-9a35-a79df3925aba)
 
+![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/cc58554a-a0d8-4bcd-96a6-734fe184a5c0)
+
+Tabular Q-learning vs. Q-iteration (model based)![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/60dbbf45-146c-48f1-af3b-ca03b94c77df)
+
+![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/a920c78b-344b-4e28-9e78-51f3e919d2d5)
+
+![image](https://github.com/Paarth353/Reinforcement-Learning-for-Batch-Arrival-Problem/assets/99269831/05bce4b9-cb53-4819-a0c4-1d2e3d3d3a00)
+
 
 
 
